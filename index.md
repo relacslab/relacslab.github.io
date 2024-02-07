@@ -1,13 +1,14 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: ReLaCS
+subtitle: Reliable and Large-scale Computing System Research Lab
 layout: page
-callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
-# Bulma Clean Theme demo website
+Reliable and Large-scale Computing System (ReLaCS) research lab investigates reliability-related technologies while preserving high performance, ranging from error mitigation to security, in variuos large-scale computing systems. Considering these technologies, we focus on addressing the fundamental problems of disaggregated memory, non-volatile memory (NVM), and SoC security. 
 
+{% comment %}
+# SAMPLE
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
@@ -52,3 +53,5 @@ This demo site showcases the available page layout options.
 JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
 
 [![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+
+{% endcomment %}

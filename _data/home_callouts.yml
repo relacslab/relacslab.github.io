@@ -1,12 +1,12 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
+  - title: Disaggregated memory
+    subtitle: Disaggregated memory is a scalable main memory expansion solution that modularly aggregates a large number of memory devices in a separate node. We develop scalable disaggregated memory architecture through advanced protocols (e.g., CXL) and its security-related features.
     icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
+  - title: Non-volatile memory
+    subtitle: Non-volatile memory (NVM) is one of the strong candidates for high-capacity main memory; it provides byte-addressability, non-volatility, and high power-efficiency. In this research, we resolve its fundamental issues - reliability and high latency - compared to DRAM. 
     icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
+  - title: SoC security
+    subtitle: Modern System-on-Chips (SoCs) include more third-party intellectual properties (IPs), as the process technology shrinks in these years. However, the introduction of third-party IPs conversely enlarges the security attack surface. Thus, we address security-related issues in larger-scale SoCs (e.g., chiplet or accelerator-rich SoCs).
     icon: fa-github
     icon_brand: true

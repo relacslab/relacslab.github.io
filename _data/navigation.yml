@@ -1,19 +1,11 @@
-- name: Docs
-  link: /docs/
-- name: Example Pages
-  link: /#
+- name: Research
+  link: /research/
+- name: Publication
+  link: /publication/
+- name: Service
+  link: /service/
+- name: Members
+  link: /members/
   dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
-- name: Blog
-  link: /blog/
+    - name: members
+      link: /members/

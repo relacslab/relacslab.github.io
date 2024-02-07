@@ -1,16 +1,16 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: ReLaCS
+tagline: ReLaCS Research Lab
+email: hyokeunlee@ajou.ac.kr
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Website for ReLaCS lab
 #baseurl: "/bulma-clean-theme"
 baseurl: ""
 url: "https://relacslab.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
@@ -74,7 +74,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+# footer_menu: example_footer_menu
 
 collections:
   products: 

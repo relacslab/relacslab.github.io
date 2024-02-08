@@ -1,6 +1,6 @@
 ---
 title: Publication
-subtitle: ^ denotes equal contribution
+subtitle: (^ denotes equal contribution)
 layout: page
 show_sidebar: false
 ---

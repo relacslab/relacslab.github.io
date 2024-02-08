@@ -9,7 +9,7 @@ description: >
 baseurl: ""
 url: "https://relacslab.github.io"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: favicon_ajou.png
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'

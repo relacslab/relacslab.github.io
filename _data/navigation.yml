@@ -1,11 +1,13 @@
 - name: Research
   link: /research/
-- name: Publication
-  link: /publication/
-- name: Service
-  link: /service/
 - name: Members
   link: /members/
   dropdown:
     - name: members
       link: /members/
+- name: Publication
+  link: /publication/
+- name: Service
+  link: /service/
+- name: Lecture
+  link: /lecture/

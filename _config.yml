@@ -1,10 +1,10 @@
 # Site Settings
 lang: en
-title: ReLaCS
-tagline: ReLaCS Research Lab
+title: RELACS
+tagline: RELACS Research Lab
 email: hyokeunlee@ajou.ac.kr
 description: >
-  Website for ReLaCS lab
+  Website for RELACS lab
 #baseurl: "/bulma-clean-theme"
 baseurl: ""
 url: "https://relacslab.github.io"

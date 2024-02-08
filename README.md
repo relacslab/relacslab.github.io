@@ -1,4 +1,4 @@
-# ReLaCS Research Lab 
+# RELACS Research Lab 
 
 This is website for academic research lab.
 

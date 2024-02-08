@@ -6,7 +6,7 @@ show_sidebar: false
 
 # Lectures & Invited Talks
 {% for servli in site.data.servlist_talk %}
-  {{ servli.label }} {{ servli.title }} <br />
+  {{ servli.title }} <br />
   <em>{{ servli.venue }}</em>, {{ servli.year }}
 {% endfor %}
 

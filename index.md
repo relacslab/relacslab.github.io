@@ -1,11 +1,11 @@
 ---
 title: RELACS
-subtitle: Reliable and Large-scale Computing System Research Lab
+subtitle: Reliable and Large-scale Computer System Research Lab
 layout: page
 show_sidebar: false
 ---
 
-**RE**liable and **LA**rge-scale **C**omputing **S**ystem (RELACS, pronounced as "*relax*") research lab investigates reliability-related technologies while preserving high performance, ranging from error mitigation to security, in various large-scale computing systems. Considering these technologies, we focus on addressing the fundamental problems of disaggregated memory, non-volatile memory, and SoC security. 
+**RE**liable and **LA**rge-scale **C**omputer **S**ystem (RELACS, pronounced as "*relax*") research lab investigates reliability-related technologies while preserving high performance, ranging from error mitigation to security, in various large-scale computing systems. Considering these technologies, we focus on addressing the fundamental problems of disaggregated memory, non-volatile memory, and SoC security. 
 
 {% comment %}
 # SAMPLE

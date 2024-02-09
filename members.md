@@ -9,8 +9,7 @@ show_sidebar: false
 <em> Assistant Professor </em> <br /> 
 **Affiliation:** Department of Electrical and Computer Engineering, Ajou University <br />
 **Email:** hyokeunlee[at]ajou.ac.kr <br />
-**Website (not up-to-date):** <https://harrylee365.github.io> <br />
-**Biography:** I was a postdoctoral researcher at [Secure and Advanced Computer Architecture Research Group (SACA)](https://sacagroup.github.io), North Carolina State University (NCSU), and being mentored by Professor Amro Awad. I worked as a Technical Research Personnel at the [Inter-university Semiconductor Research Center (ISRC)](https://isrc.snu.ac.kr) at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. from the Department of Electrical and Computer Engineering at SNU in August 2021, under the guidance of Professor [Hyuk-Jae Lee](https://capp.snu.ac.kr). I also received my B.S. from the same department at SNU in August 2016.
+**Biography:** I was a postdoctoral researcher at North Carolina State University (NCSU) and mentored by Professor Amro Awad from February 2023 to January 2024. I worked as a Technical Research Personnel at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. from SNU in August 2021, under the guidance of Professor Hyuk-Jae Lee, and I also received my B.S. degree from SNU in August 2016.
 
 <!--
 # Students

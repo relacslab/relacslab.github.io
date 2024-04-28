@@ -1,9 +1,20 @@
+- title: "SEFsim: A Statistically-Guided Fast DRAM Simulator"
+  label: "[C9]" 
+  image: 
+  description:
+  authors: Debpratim Adak, <u>Hyokeun Lee</u>, Ben Feinberg, Gwendolyn Voskuilen, Clayton Hughes, Huiyang Zhou, Amro Awad
+  issue: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+  year: May. 2024
+  tier: "[Poster]"
+  highlight: 1
+
 - title: "Salus: Efficient Security Support for CXL-Expanded GPU Memory"
   label: "[C8]" 
   image: 
   description:
   authors: Rahaf Abdullah, <u>Hyokeun Lee</u>, Huiyang Zhou, Amro Awad
   issue: International Symposium on High-Performance Computer Architecture (HPCA)
+  tlink: https://ieeexplore.ieee.org/document/10476444
   year: Mar. 2024
   tier: "[Top-Tier]"
   highlight: 1

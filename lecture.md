@@ -5,5 +5,5 @@ show_sidebar: false
 ---
 
 # Spring 2024
-- Digital system Design
+- Digital System Design
 - VLSI System Design

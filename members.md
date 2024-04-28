@@ -6,7 +6,7 @@ show_sidebar: false
 
 # Professor
 **Hyokeun Lee** (
-<a href="https://www.linkedin.com/in/hyokeunlee">LinkedIn</a>&nsbp; / &nsbp;
+<a href="https://www.linkedin.com/in/hyokeunlee">LinkedIn</a> / 
 <a href="https://github.com/relacslab/relacslab.github.io/tree/main/_document/My_CV_hklee.pdf">CV</a>) <br />
 <em> Assistant Professor </em> <br /> 
 **Affiliation:** Department of Electrical and Computer Engineering, Ajou University <br />

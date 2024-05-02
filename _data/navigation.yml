@@ -11,3 +11,5 @@
   link: /service/
 - name: Lecture
   link: /lecture/
+- name: Join?
+  link: /join/

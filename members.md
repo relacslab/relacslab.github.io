@@ -5,8 +5,11 @@ show_sidebar: false
 ---
 
 # Professor
-**Hyokeun Lee** 
+**Hyokeun Lee**
+<!-- 
 (<a href="https://www.linkedin.com/in/hyokeunlee">LinkedIn</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://github.com/relacslab/relacslab.github.io/tree/main/_document/My_CV_hklee.pdf">CV</a>) <br />
+-->
+(<a href="https://www.linkedin.com/in/hyokeunlee">LinkedIn</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://relacslab.github.io/_document/My_CV_hklee.pdf">CV</a>) <br />
 <em> Assistant Professor </em> <br /> 
 **Affiliation:** Department of Electrical and Computer Engineering, Ajou University <br />
 **Email:** hyokeunlee[at]ajou.ac.kr <br />

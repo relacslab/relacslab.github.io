@@ -4,6 +4,9 @@ layout: page
 show_sidebar: false
 ---
 
+^: equally contributed first author
+\*: (co-)corresponding author
+
 # Conference Papers
 {% for publi in site.data.publist_conference %}
   {{ publi.label }} {{ publi.authors }} <br />

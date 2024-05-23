@@ -1,6 +1,5 @@
 ---
 title: Publication
-subtitle: (^: equally contributed first authors)
 layout: page
 show_sidebar: false
 ---

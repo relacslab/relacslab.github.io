@@ -1,6 +1,6 @@
 ---
 title: Publication
-subtitle: (^: equally contributed first authors;: (co-)corresponding author)
+subtitle: (^: equally contributed first authors)
 layout: page
 show_sidebar: false
 ---

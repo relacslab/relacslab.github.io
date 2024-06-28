@@ -60,8 +60,10 @@
   year: Oct. 2023
   tier: "[Top-Tier, Best Paper Candidate]"
   slide: "[slides]"
+  code: "[code]"
   tlink: https://dl.acm.org/doi/10.1145/3613424.3614311
   plink: https://1drv.ms/p/c/00cbad8adabf8349/EYHhXZltkRpDqmdKKbrJkWUByTH8XcBjKXs8YaZS3xv1gQ?e=LnlUnj
+  clink: https://zenodo.org/records/8331724
   highlight: 1
 
 - title: "PCMCsim: An Accurate Phase-Change Memory Controller Simulator and its Performance Analysis"
@@ -72,7 +74,11 @@
   issue: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
   year: May. 2022
   tier: "[Acceptance rate: 28.9%]"
+  slide: "[slides]"
+  code: "[code]"
   tlink: https://ieeexplore.ieee.org/document/9804665
+  plink: https://1drv.ms/p/c/00cbad8adabf8349/EYnQLJXN4vpKi5oAPqgiCgQBlShnATrTJD2H_w3iU98LXg?e=Ho4kmy
+  clink: https://github.com/harrylee365/pcmcsim_public
   highlight: 1
 
 - title: "Analysis of Hardware Prefetchers Suitable for CNN Applications"

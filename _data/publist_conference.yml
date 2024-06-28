@@ -59,7 +59,9 @@
   issue: IEEE/ACM International Symposium on Microarchitecture (MICRO) 
   year: Oct. 2023
   tier: "[Top-Tier, Best Paper Candidate]"
+  slide: "[slides]"
   tlink: https://dl.acm.org/doi/10.1145/3613424.3614311
+  plink: https://1drv.ms/p/c/00cbad8adabf8349/EYHhXZltkRpDqmdKKbrJkWUByTH8XcBjKXs8YaZS3xv1gQ?e=LnlUnj
   highlight: 1
 
 - title: "PCMCsim: An Accurate Phase-Change Memory Controller Simulator and its Performance Analysis"

@@ -13,6 +13,7 @@ show_sidebar: false
   {{ publi.label }} {{ publi.authors }} <br />
   <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
+  <a href="{{ publi.plink }}">{{ publi.slide }}</a> <br />
 {% endfor %}
 
 # Journal Papers

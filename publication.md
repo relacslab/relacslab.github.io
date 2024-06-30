@@ -17,6 +17,7 @@ show_sidebar: false
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }} <br />
   <a href="{{ publi.clink }}">{{ publi.code }}</a> <a href="{{ publi.plink }}">{{ publi.slide }}</a> <br />
   {% else %}
+  Hi!
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
   {% endif %}
 {% endfor %}

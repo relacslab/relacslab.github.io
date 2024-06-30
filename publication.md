@@ -14,6 +14,7 @@ show_sidebar: false
   <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
   {% if publi.code or publi.slide %}
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }} <br />
+  HELLO
   <a href="{{ publi.clink }}">{{ publi.code }}</a> <a href="{{ publi.plink }}">{{ publi.slide }}</a> <br />
   {% else %}
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}

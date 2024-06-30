@@ -12,8 +12,12 @@ show_sidebar: false
 {% for publi in site.data.publist_conference %}
   {{ publi.label }} {{ publi.authors }} <br />
   <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
-  <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }} <br />
-  <a href="{{ publi.clink }}">{{ publi.code }}</a> <a href="{{ publi.plink }}">{{ publi.slide }}</a> <br />
+  {% if publi.code %}
+    <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }} <br />
+    <a href="{{ publi.clink }}">{{ publi.code }}</a> <a href="{{ publi.plink }}">{{ publi.slide }}</a> <br />
+  {% else %}
+    <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
+  {% endif $}
 {% endfor %}
 
 # Journal Papers

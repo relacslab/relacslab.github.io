@@ -15,4 +15,4 @@ Applicants need to meet the criteria below:
 - Prerequisite major classes: Computer Architecture, Operating System, Digital System Design, Data Structure and Algorithms
 
 **Notes**: the criteria are for Ph.D. or M.S. students, not undergradate internship.
-There will be a class for credit-earning undergradate interships -- `Research in Electronics Convergence Engineering`, you can freely reach out to me to learn more about computer architecture research
+There will be a class for credit-earning undergradate interships -- `Research in Electronics Convergence Engineering (Capstone)`, you can freely reach out to me to learn more about computer architecture research

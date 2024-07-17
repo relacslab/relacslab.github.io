@@ -10,6 +10,9 @@ Applicants need to meet the criteria below:
 - Your motivation and honest personality are the utmost aspects
 - TEPS (TOEIC is not accepted): 300 (new) / 555 (old)
 - GPA: 4.0/4.5 (overall) or 3.8/4.5 (major) -> good research experience can compensate low GPA
-- Preferred programming language skills: C or C++, Python (or other script languages), Verilog or VHDL or SystemVerilog (recommended)
+- Mandatory programming language skills: C or C++, Python (or other script languages)
+- Recommended language skills:  Verilog or VHDL or SystemVerilog
 - Prerequisite major classes: Computer Architecture, Operating System, Digital System Design, Data Structure and Algorithms
 
+Notes: the criteria are for Ph.D. or M.S. students, not undergradate internship.
+There will be a class for credit-earning undergradate interships -- `Research in Electronics Convergence Engineering`, you can freely reach out to me to discuss about topic

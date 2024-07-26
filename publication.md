@@ -14,7 +14,7 @@ show_sidebar: false
   <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
   {%- if publi.code or publi.slide or publi.poster -%}
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }} <br />
-  <a href="{{ publi.clink }}">{{ publi.code }}</a> <a href="{{ publi.slink }}">{{ publi.slide }}</a> <br /> <a href="{{ publi.plink }}">{{ publi.poster }}</a>
+  <a href="{{ publi.clink }}">{{ publi.code }}</a> <a href="{{ publi.slink }}">{{ publi.slide }}</a> <a href="{{ publi.plink }}">{{ publi.poster }}</a> <br /> 
   {%- else -%}
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
   {%- endif %}

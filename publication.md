@@ -12,9 +12,9 @@ show_sidebar: false
 {% for publi in site.data.publist_conference %}
   {{ publi.label }} {{ publi.authors }} <br />
   <a href="{{ publi.tlink }}">{{ publi.title }}</a> <br />
-  {%- if publi.code or publi.slide -%}
+  {%- if publi.code or publi.slide or publi.poster -%}
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }} <br />
-  <a href="{{ publi.clink }}">{{ publi.code }}</a> <a href="{{ publi.plink }}">{{ publi.slide }}</a> <br />
+  <a href="{{ publi.clink }}">{{ publi.code }}</a> <a href="{{ publi.slink }}">{{ publi.slide }}</a> <br /> <a href="{{ publi.plink }}">{{ publi.poster }}</a>
   {%- else -%}
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
   {%- endif %}

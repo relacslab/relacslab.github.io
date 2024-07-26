@@ -5,6 +5,8 @@
   authors: Jihoon Jang, <u>Hyokeun Lee</u>\*, Hyun Kim\*
   issue: ACM/IEEE International Symposium on Lower Power Electronics and Design (ISLPED)
   year: Aug. 2024
+  poster: "[poster]"
+  plink: https://acrobat.adobe.com/id/urn:aaid:sc:AP:4d811962-88a7-463b-9cbf-b4c899b82192
   tier: "[To Appear]"
   highlight: 1
 
@@ -49,7 +51,7 @@
   year: Oct. 2023
   slide: "[slides]"
   tlink: https://ieeexplore.ieee.org/document/10364602
-  plink: https://acrobat.adobe.com/id/urn:aaid:sc:AP:fecb0d91-5990-468d-9235-5d08d3b5d54c
+  slink: https://acrobat.adobe.com/id/urn:aaid:sc:AP:fecb0d91-5990-468d-9235-5d08d3b5d54c
   tier: "[Top-Tier]"
   highlight: 1
 
@@ -64,7 +66,7 @@
   slide: "[slides]"
   code: "[code]"
   tlink: https://dl.acm.org/doi/10.1145/3613424.3614311
-  plink: https://1drv.ms/p/c/00cbad8adabf8349/EYHhXZltkRpDqmdKKbrJkWUByTH8XcBjKXs8YaZS3xv1gQ?e=LnlUnj
+  slink: https://1drv.ms/p/c/00cbad8adabf8349/EYHhXZltkRpDqmdKKbrJkWUByTH8XcBjKXs8YaZS3xv1gQ?e=LnlUnj
   clink: https://zenodo.org/records/8331724
   highlight: 1
 
@@ -79,7 +81,7 @@
   slide: "[slides]"
   code: "[code]"
   tlink: https://ieeexplore.ieee.org/document/9804665
-  plink: https://1drv.ms/p/c/00cbad8adabf8349/EYnQLJXN4vpKi5oAPqgiCgQBlShnATrTJD2H_w3iU98LXg?e=Ho4kmy
+  slink: https://1drv.ms/p/c/00cbad8adabf8349/EYnQLJXN4vpKi5oAPqgiCgQBlShnATrTJD2H_w3iU98LXg?e=Ho4kmy
   clink: https://github.com/harrylee365/pcmcsim_public
   highlight: 1
 

@@ -7,7 +7,6 @@
   year: Aug. 2024
   poster: "[poster]"
   plink: https://acrobat.adobe.com/id/urn:aaid:sc:AP:4d811962-88a7-463b-9cbf-b4c899b82192
-  tier: "[To Appear]"
   highlight: 1
 
 - title: "SEFsim: A Statistically-Guided Fast DRAM Simulator"
@@ -16,6 +15,7 @@
   description:
   authors: Debpratim Adak, <u>Hyokeun Lee</u>, Ben Feinberg, Gwendolyn Voskuilen, Clayton Hughes, Huiyang Zhou, Amro Awad
   issue: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+  tlink: https://ieeexplore.ieee.org/document/10590028
   year: May. 2024
   tier: "[Poster]"
   highlight: 1

@@ -8,7 +8,7 @@ If you are interested in resource disaggregation, SoC security, or any topics re
 
 Applicants need to meet the criteria below: 
 - Your motivation and honest personality are the utmost aspects
-- TEPS (TOEIC is not accepted): 300 (new) / 555 (old)
+- TEPS (TOEIC is not accepted): 330 (new) / 610 (old)
 - GPA: 4.0/4.5 (overall) or 3.8/4.5 (major) -> good research experience can compensate low GPA
 - Mandatory programming language skills: C or C++, Python (or other script languages)
 - Recommended language skills:  Verilog or VHDL or SystemVerilog

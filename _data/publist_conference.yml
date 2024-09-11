@@ -65,10 +65,12 @@
   year: Oct. 2023
   tier: "[Top-Tier, Best Paper Candidate]"
   slide: "[slides]"
-  code: "[code]"
+  code: "[code-github]"
+  code2: "[code-zenodo]"
   tlink: https://dl.acm.org/doi/10.1145/3613424.3614311
   slink: https://1drv.ms/p/c/00cbad8adabf8349/EYHhXZltkRpDqmdKKbrJkWUByTH8XcBjKXs8YaZS3xv1gQ?e=LnlUnj
-  clink: https://zenodo.org/records/8331724
+  clink: https://github.com/harrylee365/cryptommu
+  clink2: https://zenodo.org/records/8331724
   highlight: 1
 
 - title: "PCMCsim: An Accurate Phase-Change Memory Controller Simulator and its Performance Analysis"

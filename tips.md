@@ -8,7 +8,7 @@ show_sidebar: false
 - **Be honest**: Credibility is the most basic virtue for having a wonderful relationship with your colleagues and advisors. 
 - **Be self-motivated**: Graduate student life has a very high degree of freedom. Try to plan out several short-term milestones (it can be publishing or completing tasks) similar to game quests. 
 - **Be responsible**: Unlike in industry, you do research and write papers for yourself, not for your advisors.
-- **Be productive**: After completing a project, please let your efforts bear fruit by publishing papers or patents -- These will leave solid records on your CV. The third parties other than your advisors or colleagus almost always judge you based on official records.
+- **Be productive**: After completing a project, please let your efforts bear fruit by publishing papers or patents -- These will leave solid records on your CV. The third parties other than your advisors or colleagus almost always judge you based on official outputs.
 - **Don't be greedy**: Earning a degree is a marathon-like procedure. Hence, unless you are against the clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burning out. 
 
 

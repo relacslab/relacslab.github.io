@@ -1,3 +1,9 @@
+---
+title: Tips for Fresh Gradudate Students
+layout: page
+show_sidebar: false
+---
+
 # Having a Nice Graduate Student Life?
 - **Be honest**: Credibility is the most basic virtue for having a wonderful relationship with your colleagues and advisors. 
 - **Be self-motivated**: Graduate student life has a very high degree of freedom. Try to plan out several short-term milestones (it can be publishing or completing tasks) similar to game quests. 

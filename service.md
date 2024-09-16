@@ -1,5 +1,5 @@
 ---
-title: Service
+title: Professional activities
 layout: page
 show_sidebar: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: Lecture
+title: Taught lectures
 layout: page
 show_sidebar: false
 ---

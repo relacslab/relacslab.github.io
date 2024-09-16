@@ -18,7 +18,7 @@ Creativity originates from repeated learning and imitation -- This is indeed tru
 - What is the problem definition of this paper? 
 - Is there a previous approach? What are the limitations of the previous approach? 
 - What is the proposed key idea for overcoming the aforementioned limitations? What are the practical challenges to realizing the idea? 
-- Why would the proposed approach outperform than the previous approach from the technical perspective (i.e., rationale behind design choices)?
+- Why would the proposed approach outperform the previous approach from the technical perspective (i.e., rationale behind design choices)?
 - How do the authors address those challenges in detail in the methodology part? 
 - In the evaluation part, how do the authors evaluate their idea? By simulation? Real machine-based emulation? 
 - What are the evaluation configurations? What is the rationale behind those configurations?

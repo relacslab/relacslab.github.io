@@ -9,7 +9,7 @@ show_sidebar: false
 - **Be self-motivated**: Graduate student life has a very high degree of freedom. Try to plan out several short-term milestones (it can be publishing or completing tasks) similar to game quests. 
 - **Be responsible**: Unlike in industry, you do research and write papers for yourself, not for your advisors.
 - **Be productive**: After completing a project, please let your efforts bear fruit by publishing papers or patents -- These will leave solid records on your CV. The third parties other than your advisors or colleagus almost always judge you based on official records.
-- **Don't be greedy**: Earning a degree is a marathon-like procedure. Hence, unless you are running against clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burning out. 
+- **Don't be greedy**: Earning a degree is a marathon-like procedure. Hence, unless you are against the clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burning out. 
 
 
 # To Fresh: How to Read Papers?
@@ -17,8 +17,8 @@ Creativity originates from repeated learning and imitation -- This is indeed tru
 
 - What is the problem definition of this paper? 
 - Is there a previous approach? What are the limitations of the previous approach? 
-- What is the proposed key idea for overcoming the aforementioned challenges? What are the challenges to realizing the idea in practice? 
-- Why does the proposed approach perform better than the previous approach from the technical perspective?
+- What is the proposed key idea for overcoming the aforementioned limitations? What are the practical challenges to realizing the idea? 
+- Why would the proposed approach outperform than the previous approach from the technical perspective (i.e., rationale behind design choices)?
 - How do the authors address those challenges in detail in the methodology part? 
 - In the evaluation part, how do the authors evaluate their idea? By simulation? Real machine-based emulation? 
 - What are the evaluation configurations? What is the rationale behind those configurations?

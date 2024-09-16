@@ -9,11 +9,11 @@ show_sidebar: false
 - **Be self-motivated**: Graduate student life has a very high degree of freedom. Try to plan out several short-term milestones (it can be publishing or completing tasks) similar to game quests. 
 - **Be responsible**: Unlike in industry, you do research and write papers for yourself, not for your advisors.
 - **Be productive**: After completing a project, please let your efforts bear fruit by publishing papers or patents -- These will leave solid records on your CV. The third parties other than your advisors or colleagus almost always judge you based on official outputs.
-- **Don't be greedy**: Earning a degree is a marathon-like procedure. Hence, unless you are against the clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burning out. 
+- **Don't be greedy**: Earning a degree is a marathon-like procedure. Hence, unless you are against the clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burn-out. 
 
 
-# To Fresh: How to Read Papers?
-Creativity originates from repeated learning and imitation -- This is indeed true for any field. Historically, people have augmented various methods by learning from papers and books. Since computer science has been quickly growing within decades, we cannot come up with novel ideas from the blank background. Thus, reading papers has to be one of your usual habits that should not be commanded by your advisors/managers, even if you are pursuing a career in the industry in the future. Furthermore, reading papers **correctly** is also crucial to develop your skills. Before reading, you need to keep the following questions in your mind: 
+# How to Read Papers Properly?
+Creativity originates from repeated learning and imitation -- This is indeed true for any field. Historically, people have augmented various methods by learning from literatures. Since computer science has been quickly growing within decades, we cannot come up with novel ideas from the blank background. Thus, reading papers has to be one of your usual habits that should not be enforced by your advisors/managers, even if you are pursuing a career in the industry in the future. Furthermore, reading papers **correctly** is also crucial to develop your skills. Before reading, you need to keep the following questions in your mind: 
 
 - What is the problem definition of this paper? 
 - Is there a previous approach? What are the limitations of the previous approach? 

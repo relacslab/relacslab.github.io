@@ -13,7 +13,7 @@ show_sidebar: false
 
 
 # To Fresh: How to Read Papers?
-Creativity originates from repeated learning and imitation -- This is indeed true for any field. Historically, people have augmented various methods by learning from papers and books. Since computer science has been quickly growing within decades, we cannot come up with novel ideas from the blank background. Thus, reading papers should be one of your usual habits that should not be commanded by your advisors/managers, even if you are pursuing a career in the industry in the future. However, reading papers **correctly** is also crucial to develop your skills. Before reading, you need to keep the following questions in your mind: 
+Creativity originates from repeated learning and imitation -- This is indeed true for any field. Historically, people have augmented various methods by learning from papers and books. Since computer science has been quickly growing within decades, we cannot come up with novel ideas from the blank background. Thus, reading papers has to be one of your usual habits that should not be commanded by your advisors/managers, even if you are pursuing a career in the industry in the future. Furthermore, reading papers **correctly** is also crucial to develop your skills. Before reading, you need to keep the following questions in your mind: 
 
 - What is the problem definition of this paper? 
 - Is there a previous approach? What are the limitations of the previous approach? 

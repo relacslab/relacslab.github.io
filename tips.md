@@ -79,7 +79,7 @@ J. S. Kim et al., “Revisiting RowHammer: An Experimental Analysis of Modern DR
 ## Memory compression
 R. B. Tremaine et al., "IBM Memory Expansion Technology (MXT)," IBM Journal of Research and Development, 2001. <br />
 D. A. Wood et al., “Frequent Pattern Compression: A Significance-Based Compression Scheme for L2 Caches,” Technical Report 1500 UW-Madison, 2004. <br />
-X. Chen et al., "C-PACK: A High-Performance Microprocessor Cache Compression Algorithm," IEE Educational ACtivities Department, 2010. <br />
+X. Chen et al., "C-PACK: A High-Performance Microprocessor Cache Compression Algorithm," IEEE Educational Activities Department, 2010. <br />
 G. Pekhimenko et al., “Base-Delta-Immediate Compression: Practical Data Compression for On-Chip Caches,” PACT, 2012. <br />
 G. Pekhimenko et al., “Linearly Compressed Pages: A Low-Complexity, Low-Latency Main Memory Compression Framework,” MICRO, 2013. <br />
 J. Kim et al., "Bit-Plane Compression: Transforming Data for Better Compression in Many-Core Architectures," ISCA, 2016. <br />

@@ -77,10 +77,12 @@ E. Lee et al., “TWiCe: Preventing Row-hammering by Exploiting Time Window Coun
 J. S. Kim et al., “Revisiting RowHammer: An Experimental Analysis of Modern DRAM Devices and Mitigation Techniques,” ISCA, 2020. <br />
 
 ## Memory compression
+R. B. Tremaine et al., "IBM Memory Expansion Technology (MXT)," IBM Journal of Research and Development, 2001. <br />
 D. A. Wood et al., “Frequent Pattern Compression: A Significance-Based Compression Scheme for L2 Caches,” Technical Report 1500 UW-Madison, 2004. <br />
+X. Chen et al., "C-PACK: A High-Performance Microprocessor Cache Compression Algorithm," IEE Educational ACtivities Department, 2010. <br />
 G. Pekhimenko et al., “Base-Delta-Immediate Compression: Practical Data Compression for On-Chip Caches,” PACT, 2012. <br />
 G. Pekhimenko et al., “Linearly Compressed Pages: A Low-Complexity, Low-Latency Main Memory Compression Framework,” MICRO, 2013. <br />
-Y. Kim et al., “Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors,” ISCA, 2014. <br />
+J. Kim et al., "Bit-Plane Compression: Transforming Data for Better Compression in Many-Core Architectures," ISCA, 2016. <br />
 E. Choukse et al., “Compresso: Pragmatic Main Memory Compression,” MICRO, 2018. <br />
 
 ## Memory security

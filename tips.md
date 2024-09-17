@@ -76,7 +76,7 @@ Y. Kim et al., “Flipping Bits in Memory Without Accessing Them: An Experimenta
 E. Lee et al., “TWiCe: Preventing Row-hammering by Exploiting Time Window Counters,” ISCA, 2019. <br />
 J. S. Kim et al., “Revisiting RowHammer: An Experimental Analysis of Modern DRAM Devices and Mitigation Techniques,” ISCA, 2020. <br />
 
-## Memor compression
+## Memory compression
 D. A. Wood et al., “Frequent Pattern Compression: A Significance-Based Compression Scheme for L2 Caches,” Technical Report 1500 UW-Madison, 2004. <br />
 G. Pekhimenko et al., “Base-Delta-Immediate Compression: Practical Data Compression for On-Chip Caches,” PACT, 2012. <br />
 G. Pekhimenko et al., “Linearly Compressed Pages: A Low-Complexity, Low-Latency Main Memory Compression Framework,” MICRO, 2013. <br />

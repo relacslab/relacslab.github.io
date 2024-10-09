@@ -5,7 +5,7 @@ show_sidebar: false
 ---
 
 # Disaggregated Memory
-Disaggregated memory is a scalable main memory expansion solution that modularly aggregates several memory devices in a separate node. We develop scalable disaggregated memory architecture through advanced protocols (e.g., CXL) and its security-related features.
+Disaggregated memory is a scalable main memory expansion solution that modularly aggregates several memory devices in a separate node. We develop scalable disaggregated memory architectures through advanced protocols (e.g., CXL) and features (e.g., security, compression).
 
 
 # Non-Volatile Memory

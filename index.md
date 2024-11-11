@@ -5,7 +5,7 @@ layout: page
 show_sidebar: false
 ---
 
-**RE**liable and **LA**rge-scale **C**omputer **S**ystem (RELACS, pronounced as "*relax*") research lab investigates reliability-related technologies while preserving high performance, ranging from error mitigation to security, in various large-scale computing systems. Considering these technologies, we focus on addressing the fundamental problems of disaggregated memory, non-volatile memory, and SoC security. <br />
+**RE**liable and **LA**rge-scale **C**omputer **S**ystem (RELACS, pronounced as "*relax*") research lab investigates reliability-related technologies while preserving high performance, ranging from error mitigation to security, in various large-scale computing systems. <br />
 
 <a href="https://github.com/relacslab">GitOrganization(Grads)</a> <br />
 <a href="https://github.com/relacslab-interns">GitOrganization(Interns)</a> <br />

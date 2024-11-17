@@ -1,3 +1,13 @@
+- title: "A Cycle-Accurate Simulation Platform for NPU-DRAM Integrated Systems"
+  label: "[C11]" 
+  image: 
+  description:
+  authors: Hyemin Park, Boyeal Kim, Suhong Lee, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*
+  issue: IEEE International Conference on Consumer Electronics (ICCE)
+  tlink: 
+  year: Jan. 2025
+  highlight: 1
+
 - title: "EDeN: Enabling Low-Power CNN Inference on Edge Devices Using Prefetcher-Assisted NVM Systems"
   label: "[C10]" 
   image: 
@@ -6,7 +16,7 @@
   issue: ACM/IEEE International Symposium on Lower Power Electronics and Design (ISLPED)
   tlink: https://dl.acm.org/doi/10.1145/3665314.3670801
   year: Aug. 2024
-  poster: "[poster]"
+  poster: "[description]"
   plink: https://acrobat.adobe.com/id/urn:aaid:sc:AP:4d811962-88a7-463b-9cbf-b4c899b82192
   highlight: 1
 
@@ -36,7 +46,7 @@
   label: "[C7]"
   image:
   description:
-  authors: Shubham Nema, Shiva Kaushik Chunduru, Charan Kodigal, Gwendolyn Voskuilen, Scott Hemmert, <u>Hyokeun Lee</u>, Amro Awad
+  authors: Shubham Nema, Shiva Kaushik Chunduru, Charan Kodigal, Gwendolyn Voskuilen, Arun F. Rodrigues, Scott Hemmert, Ben Feinberg, <u>Hyokeun Lee</u>, Amro Awad, Clayton Hughes
   issue: International Symposium on Workload Characterization (IISWC)
   year: Oct. 2023
   tlink: https://ieeexplore.ieee.org/document/10289370
@@ -114,7 +124,7 @@
   label: "[C1]"
   image:
   description:
-  authors: <u>Hyokeun Lee</u>, Seungyong Lee, Byeongki Song, Moonsoo Kim Seokbo Shim, Hyuk-Jae Lee, Hyun Kim
+  authors: <u>Hyokeun Lee</u>, Donghyeon Lee, Hyuk-Jae Lee
   issue: IEEE/IEIE International Conference on Consumer Electronics (ICCE-Asia)
   year: June. 2018
   tier: ""

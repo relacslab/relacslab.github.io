@@ -13,12 +13,12 @@ Modern computer applications (e.g., LLM or in-memory database) demand larger mem
 ## Memory Disaggregation
 Memory disaggregation is a scalable main memory expansion solution that modularly aggregates several memory devices in a separate node at the system level. Also, it can be achieved by leveraging I/O interconnects in addition to traditional DIMM interfaces at the node level. However, such a large-scale memory system is usually shared by a large number of processing units, thereby potentially incurring security, reliability, and resource efficiency issues. Thus, we develop scalable disaggregated memory architectures through advanced (1) protocols that support hardware-based cache coherence (e.g., CXL), (2) features (e.g., security, compression), and (3) memory technologies (e.g., NVM). 
 
-Selected Recent Publications: [C8], [C6]
+Selected Recent Publications: [HPCA '24], [PACT '23]
 
-Selected Recent Publications (NVM): [C10], [C4], [C2], [J8], [J2]
+Selected Recent Publications (NVM): [TC '20, '23], [ISPASS '22], [ISLPED '24]
 
 
 ## Accelerator Disaggregation
 Accelerator disaggregation forms so-called accelerator-rich systems by aggregating the computation power of various acceleration functional units (AFUs). For example, modern SoCs have included more third-party intellectual properties (IPs) over the years. However, the introduction of third-party IPs conversely enlarges the security attack surface. Thus, we address security-related issues, such as MMU or memory, in the context of larger-scale SoCs (e.g., chiplet or accelerator-rich SoCs).
 
-Selected Recent Publications: [C5], [C8]
+Selected Recent Publications: [MICRO '23], [HPCA '24]

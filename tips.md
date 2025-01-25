@@ -4,7 +4,7 @@ layout: page
 show_sidebar: false
 ---
 
-# SCP<sup>2</sup> to Have a Nice Graduate Student Life
+# SCP<sup>2</sup>: Ways to Have a Nice Graduate Student Life
 - **Self-motivated**: Graduate student life has a very high degree of freedom, and you research for yourself, not advisor. Try to plan out several short-term milestones just like smashing down game quests. 
 - **Credible**: Credibility is the most basic virtue for having a wonderful relationship with your colleagues and advisors. 
 - **Patient**: Earning a degree is a marathon-like procedure. Hence, unless you are against the clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burn-out. 

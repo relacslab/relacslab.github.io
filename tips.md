@@ -4,12 +4,11 @@ layout: page
 show_sidebar: false
 ---
 
-# 5*B*s to Have a Nice Graduate Student Life
-- **Be honest**: Credibility is the most basic virtue for having a wonderful relationship with your colleagues and advisors. 
-- **Be self-motivated**: Graduate student life has a very high degree of freedom. Try to plan out several short-term milestones just like smashing down game quests. 
-- **Be responsible**: Unlike in industry, you do research and write papers for yourself, not for your advisors.
-- **Be productive**: After completing a project, please let your efforts bear fruit by publishing papers or patents -- These will leave solid records on your CV. The third parties other than your advisors or colleagus almost always judge you based on official outputs.
-- **Be patient**: Earning a degree is a marathon-like procedure. Hence, unless you are against the clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burn-out. 
+# SCP<sup>2</sup> to Have a Nice Graduate Student Life
+- **Self-motivated**: Graduate student life has a very high degree of freedom, and you research for yourself, not advisor. Try to plan out several short-term milestones just like smashing down game quests. 
+- **Credible**: Credibility is the most basic virtue for having a wonderful relationship with your colleagues and advisors. 
+- **Patient**: Earning a degree is a marathon-like procedure. Hence, unless you are against the clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burn-out. 
+- **Productive**: After completing a project, please let your efforts bear fruit by publishing papers or patents -- These will leave solid records on your CV. The third parties other than your advisors or colleagus almost always judge you based on official outputs.
 
 
 # How to Read Papers Properly?

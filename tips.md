@@ -8,11 +8,16 @@ show_sidebar: false
 - **Self-motivated**: Graduate student life has a very high degree of freedom, and you research for yourself, not advisor. Try to plan out several short-term milestones just like smashing down game quests. 
 - **Credible**: Credibility is the most basic virtue for having a wonderful relationship with your colleagues and advisors. 
 - **Patient**: Earning a degree is a marathon-like procedure. Hence, unless you are against the clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burn-out. 
-- **Productive**: After completing a project, please let your efforts bear fruit by publishing papers or patents -- These will leave solid records on your CV. The third parties other than your advisors or colleagus almost always judge you based on official outputs.
+- **Productive**: Please let your efforts bear fruit by publishing papers or patents after a project, as these will leave solid records on your CV. The third parties other than your colleagus almost always judge you based on official outputs.
 
 
 # How to Read Papers Properly?
-Creativity originates from repeated learning and imitation -- This is indeed true for any field. Historically, people have augmented various methods by learning from literatures. Since computer science has been quickly growing within decades, we cannot come up with novel ideas from the blank background. Thus, reading papers has to be one of your usual habits that should not be enforced by your advisors/managers, even if you are pursuing a career in the industry in the future. Furthermore, reading papers **correctly** is also crucial to develop your skills. Before reading, you need to keep the following questions in your mind: 
+Creativity originates from repeated learning and imitation -- This is indeed true for any field. Historically, people have augmented various methods by learning from literatures. Since computer science has been quickly growing within decades, we cannot come up with novel ideas from the blank background. Thus, reading papers has to be one of your usual habits that should not be enforced by your advisors/managers, even if you are pursuing a career in the industry in the future. 
+
+Reading papers can be categorized into two ways: (1) PERUSE and (2) SKIM.
+*Skimming* is used for broad literature survey to find a topic, we quickly grasp the problems and high-level key idea from introduction and the front-end of methodology parts. 
+
+In fact, *peruse* is probably the high-priority method you need to firstly learn while doing research. During perusing, you need to keep the following questions in your mind: 
 
 - What is the problem definition of this paper? 
 - Is there a previous approach? What are the limitations of the previous approach? 
@@ -25,8 +30,8 @@ Creativity originates from repeated learning and imitation -- This is indeed tru
 - Above all, what are the commonly used approaches to realize idea, considering papers in various fields?
 
 
-# Classic Papers for Fresh Graduate Students
-To get your feet wet at computer architecture (e.g., understand common architectural design, methods, and terminologies), I recommend you read the following classic, wonderful papers published within decades! 
+# Papers for Fresh Graduate Students
+To get your feet wet at computer architecture (e.g., understand common architectural design and terminologies), I recommend you read the following high-quality papers published within decades! 
 
 ## Microarchitectures
 J. A. Fisher et al., “Very Long Instruction Word Architectures and the ELI-512,” ISCA, 1983. <br />
@@ -41,7 +46,13 @@ E. Lindholm et al., “NVIDIA Tesla: A Unified Graphics and Computing Architectu
 A. Jaleel et al., “Achieving Non-Inclusive Cache Performance with Inclusive Caches,” MICRO, 2010. <br />
 E. Blem et al., “Power Struggles: Revisiting the RISC vs. CISC Debate on Contemporary ARM and x86 Architectures,” HPCA, 2013. <br />
 
-# Data prefetch
+## Proper uses of performance metrics
+L. K. John, "More on Finding a Single Number to Indicate Overall Performance of a Benchmark Suite," ACM SIGARCH Computer Architecture News, 2004.
+A. A. Alameldeen et al., "IPC Considered Harmful for Multiprocessor Workloads," IEEE Micro, 2006. 
+S. Eyerman et al., "Restating the Case for Weighted-IPC Metrics to Evaluate Multiprogram Workload Performance, IEEE Computer Architecture Letters, 2014. 
+L. Eeckhout, "R. I. P. Geomean Speedup Use Equal-Work (Or Equal-Time) Harmonic Mean Speedup Instead," IEEE Computer Architecture Letters, 2025. 
+
+## Data prefetch
 S. Palacharla et al., "Evaluating Stream Buffers as a Secondary Cache Replacement", ISCA, 1994. <br />
 K. J. Nesbit et al., “Data Cache Prefetching using a Global History Buffer”, HPCA, 2004. <br />
 S. Srinath et al., "Feedback Directed Prefetching: Improving the Performance and Bandwidth-Efficiency of Hardware Prefetchers", HPCA, 2007. <br />

@@ -17,7 +17,7 @@ Creativity originates from repeated learning and imitation -- This is indeed tru
 Reading papers can be categorized into two ways: (1) PERUSE and (2) SKIM.
 *Skimming* is used for broad literature survey to find a topic, we quickly grasp the problems and high-level key idea from introduction and the front-end of methodology parts. 
 
-In fact, *peruse* is probably the high-priority method you need to firstly learn while doing research. During perusing, you need to keep the following questions in your mind: 
+In fact, *peruse* is probably the high-priority method you need to firstly learn while doing research. To peruse, please keep the following questions in your mind: 
 
 - What is the problem definition of this paper? 
 - Is there a previous approach? What are the limitations of the previous approach? 

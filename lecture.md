@@ -13,6 +13,5 @@ show_sidebar: false
 - Computer Organization and Architecture (English)
 
 # Spring 2024
-- Digital System Design (English)
-- VLSI System Design
-
+- <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-dsd.pdf">Digital System Design</a> (English)
+- <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-vlsi.pdf">VLSI System Design</a>

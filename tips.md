@@ -47,10 +47,10 @@ A. Jaleel et al., “Achieving Non-Inclusive Cache Performance with Inclusive Ca
 E. Blem et al., “Power Struggles: Revisiting the RISC vs. CISC Debate on Contemporary ARM and x86 Architectures,” HPCA, 2013. <br />
 
 ## Proper uses of performance metrics
-L. K. John, "More on Finding a Single Number to Indicate Overall Performance of a Benchmark Suite," ACM SIGARCH Computer Architecture News, 2004.
-A. A. Alameldeen et al., "IPC Considered Harmful for Multiprocessor Workloads," IEEE Micro, 2006. 
-S. Eyerman et al., "Restating the Case for Weighted-IPC Metrics to Evaluate Multiprogram Workload Performance, IEEE Computer Architecture Letters, 2014. 
-L. Eeckhout, "R. I. P. Geomean Speedup Use Equal-Work (Or Equal-Time) Harmonic Mean Speedup Instead," IEEE Computer Architecture Letters, 2025. 
+L. K. John, "More on Finding a Single Number to Indicate Overall Performance of a Benchmark Suite," ACM SIGARCH Computer Architecture News, 2004. <br />
+A. A. Alameldeen et al., "IPC Considered Harmful for Multiprocessor Workloads," IEEE Micro, 2006. <br />
+S. Eyerman et al., "Restating the Case for Weighted-IPC Metrics to Evaluate Multiprogram Workload Performance, IEEE Computer Architecture Letters, 2014. <br />
+L. Eeckhout, "R. I. P. Geomean Speedup Use Equal-Work (Or Equal-Time) Harmonic Mean Speedup Instead," IEEE Computer Architecture Letters, 2025. <br />
 
 ## Data prefetch
 S. Palacharla et al., "Evaluating Stream Buffers as a Secondary Cache Replacement", ISCA, 1994. <br />

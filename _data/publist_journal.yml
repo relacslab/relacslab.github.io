@@ -1,3 +1,14 @@
+- title: "OASIS: Outlier-Aware KV Cache Clustering for Scaling LLM Inference in CXL Memory Systems"
+  label: "[J9]"
+  image:
+  description:
+  authors: Minseok Seo, Jungi Hyun, Seongho Jeong, Xuan Truong Nguyen, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*
+  issue: IEEE Transactions on Computers
+  year: May. 2025
+  tier: "[SCIE (Accepted)]"
+  tlink: 
+  highlight: 1
+
 - title: "An In-Module Disturbance Barrier for Mitigating Write Disturbance in Phase-Change Memory"
   label: "[J8]"
   image:

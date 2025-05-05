@@ -6,7 +6,7 @@ show_sidebar: false
 
 ^: equally contributed first author
 
-\*: (co-)corresponding author
+\*: corresponding author(s)
 
 # Conference Papers
 {% for publi in site.data.publist_conference %}

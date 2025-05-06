@@ -26,7 +26,7 @@
                             {% endfor %}
                         </div>
                     </div>
-                    {% elseif item.noshow %}
+                    {% elif item.noshow %}
                     {% else %}
                     <a href="{{ item.link | relative_url }}" class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
                     {% endif %}

@@ -11,7 +11,7 @@ show_sidebar: false
 <a href="https://github.com/relacslab-interns">GitOrganization(Interns)</a> <br />
 
 # News
-{% for article in site.data.allnews limit:5 %}
+{% for article in site.data.news limit:5 %}
   [**{{ article.date }}**] {{ article.headline }}<br />
 {% endfor %}
 

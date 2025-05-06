@@ -5,6 +5,6 @@ show_sidebar: false
 ---
 
 {% for article in site.data.news %}
-  [{{ article.date }}] {{ article.headline }}<br />
+  [**{{ article.date }}**] {{ article.headline }}<br />
 {% endfor %}
 

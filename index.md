@@ -12,9 +12,10 @@ show_sidebar: false
 
 # News
 {% for article in site.data.news limit:5 %}
-  ({{ article.date }}) {{ article.headline }}<br />
+  [**{{ article.date }}**] {{ article.headline }}<br />
 {% endfor %}
 
+<a href="{{ site.url }}{{ site.baseurl }}/allnews">See all news...</a><br />
 
 {% comment %}
 # SAMPLE

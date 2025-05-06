@@ -1,5 +1,5 @@
 ---
-title: News
+title: All News
 layout: page
 show_sidebar: false
 ---

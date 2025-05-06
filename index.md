@@ -10,6 +10,12 @@ show_sidebar: false
 <a href="https://github.com/relacslab">GitOrganization(Grads)</a> <br />
 <a href="https://github.com/relacslab-interns">GitOrganization(Interns)</a> <br />
 
+# News
+{% article in site.data.news limit:5 %}
+  ({{ article.date }}) {{ article.headline }}<br />
+{% endfor %}
+
+
 {% comment %}
 # SAMPLE
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 

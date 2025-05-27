@@ -5,8 +5,8 @@
   authors: Minseok Seo, Jungi Hyun, Seongho Jeong, Xuan Truong Nguyen, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*
   issue: IEEE Computer Architecture Letters
   year: May. 2025
-  tier: "[SCIE (Accepted)]"
-  tlink: 
+  tier: "[SCIE]"
+  tlink: https://ieeexplore.ieee.org/document/10990150
   highlight: 1
 
 - title: "An In-Module Disturbance Barrier for Mitigating Write Disturbance in Phase-Change Memory"

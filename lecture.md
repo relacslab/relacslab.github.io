@@ -4,6 +4,10 @@ layout: page
 show_sidebar: false
 ---
 
+# Fall 2025
+- Advanced Computer Architecture
+- <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-coa.pdf" target="_blank">Computer Organization and Architecture</a> (English)
+
 # Spring 2025
 - <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-dsd.pdf" target="_blank">Digital System Design</a> 
 - <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-vlsi.pdf" target="_blank">VLSI System Design</a> (English)

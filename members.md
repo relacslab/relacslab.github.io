@@ -19,6 +19,7 @@ show_sidebar: false
 # Ph.D./M.S. Students
 {% for sli in site.data.stulist_extern %}
   [**{{ sli.name }}**]({{ sli.web }}), {{ sli.role }} <br />
+  **Topic:** {{ sli.topic }} <br />
 {% endfor %}
 
 {% for sli in site.data.stulist_current %}

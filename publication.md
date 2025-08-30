@@ -27,6 +27,13 @@ show_sidebar: false
   <em>{{ publi.issue }}</em>, {{ publi.year }} {{ publi.tier }}
 {% endfor %}
 
+# Submitted Papers 
+## (Titles are hidden to obey double-blind principles for conference papers)
+Minseok Seo, Seongho Jeong, Jungi Hyun, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*, HPCA 2026<br />
+Younghoon Ko, Hyemin Park, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*, HPCA 2026<br />
+John McFarland, Hyokeun Lee, Aydin Aysu, Amro Awad, "Secure Integrity for Third-Party IOMMUs," IEEE Transactions on Computers<br />
+<u>Hyokeun Lee^</u>, Rahaf Abdullah^, Abbas Fairouz, Huiyang Zhou, Amro Awad, "An Unified Memory Security Model for CXL Memory-Expanded GPU Sytems," IEEE Transactions on Computers<br />
+
 # Patents
 {% for publi in site.data.publist_patent %}
   {{ publi.label }} {{ publi.inventors }} <br />

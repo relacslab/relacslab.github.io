@@ -5,7 +5,7 @@ show_sidebar: false
 ---
 
 # Fall 2025
-- Advanced Computer Architecture
+- <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-aca.pdf" target="_blank">Advanced Computer Architecture</a> 
 - <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-coa.pdf" target="_blank">Computer Organization and Architecture</a> (English)
 
 # Spring 2025

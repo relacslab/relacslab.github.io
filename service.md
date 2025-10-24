@@ -13,5 +13,6 @@ show_sidebar: false
 
 # Professional Services
 {% for servli in site.data.servlist_prof %}
-  {{ servli.role }}, <em>{{ servli.title }}</em>, {{ servli.year }}
+  {{ servli.title }} <br /> 
+  <em>{{ servli.role }}</em>
 {% endfor %}

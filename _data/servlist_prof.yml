@@ -1,99 +1,48 @@
 - title: IEEE International Conference on Computer Design (ICCD)
-  role: Program Committee Member
-  year: 2025
-  reviewed: 6
+  role: PC Member (2025, 2024, 2023)
 
 - title: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
-  role: Artifact Evaluation Co-Chair
-  year: 2025
-  reviewed: 1
-
-- title: IEEE Computer Architecture Letters
-  role: Reviewer
-  year: 2025
-  reviewed: 1
-
-- title: IEEE Transactions on Dependable and Secure Computing
-  role: Reviewer
-  year: 2025
-  reviewed: 1
+  role: Artifact Evaluation Co-Chair (2025)
 
 - title: IEEE International Parallel & Distributed Processing Symposium (IPDPS)
-  role: Program Committee Member
-  year: 2025
-  reviewed: 
-
-- title: ACM Transactions on Architecture and Code Optimization
-  role: Reviewer
-  year: 2024
-  reviewed: 1
-
-- title: IEEE Transactions on Computers
-  role: Reviewer
-  year: 2024
-  reviewed: 1
-
-- title: Springer The Journal of Supercomputing
-  role: Reviewer
-  year: 2024
-  reviewed: 1
-
-- title: IEEE International Conference on Computer Design (ICCD)
-  role: Program Committee Member
-  year: 2024
-  reviewed: 6
+  role: PC Member (2025)
 
 - title: Great Lakes Symposium on VLSI (GLSVLSI)
-  role: Program Committee Member
-  year: 2024
-  reviewed: 
-
-- title: International Conference on Electronics, Information and Communication (ICEIC)
-  role: Technical Program Committee Member
-  year: 2024
-  reviewed: 22
-
-- title: IEEE International Conference on Computer Design (ICCD)
-  role: Program Committee Member
-  year: 2023
-  reviewed: 6
-
-- title: IEEE Conference on Artificial Intelligence Circuits and Systems (AICAS)
-  role: Reviewer
-  year: 2023
-  reviewed: 3
-
-- title: IEIE Transactions on Smart Processing and Computing 
-  role: Reviewer
-  year: 2023
-  reviewed: 1
-
-- title: IEEE International Conference on Computer Design (ICCD)
-  role: Program Committee Member
-  year: 2022
-  reviewed: 8
-
-- title: Elsevier Microelectronics Journal
-  role: Reviewer
-  year: 2022
-  reviewed: 2
-
-- title: IEEE Conference on Artificial Intelligence Circuits and Systems (AICAS)
-  role: Reviewer
-  year: 2022
-  reviewed: 2
-
-- title: Elsevier Materials Research Bulletin
-  role: Reviewer
-  year: 2021
-  reviewed: 1
+  role: PC Member (2024)
 
 - title: IEEE/IEIE International Conference on Consumer Electronics Asia (ICCE-ASIA) 
-  role: Technical Program Committee Member
-  year: 2021
-  reviewed: 20
+  role: TPC Member (2025, 2021)
+
+- title: IEEE Conference on Artificial Intelligence Circuits and Systems (AICAS)
+  role: Reviewer (2023, 2022)
+
+- title: International Conference on Electronics, Information and Communication (ICEIC)
+  role: TPC Member (2024)
+
+- title: ACM Transactions on Architecture and Code Optimization
+  role: Reviewer (2024)
+
+- title: IEEE Transactions on Computers
+  role: Reviewer (2024)
+
+- title: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+  role: Reviewer (2025)
+
+- title: IEEE Transactions on Dependable and Secure Computing
+  role: Reviewer (2025)
+
+- title: IEEE Computer Architecture Letters
+  role: Reviewer (2025)
+
+- title: Springer The Journal of Supercomputing
+  role: Reviewer (2025, 2024)
 
 - title: IEIE Transactions on Smart Processing and Computing 
-  role: Reviewer
-  year: 2021
-  reviewed: 1
+  role: Reviewer (2024, 2023, 2021)
+
+- title: Elsevier Microelectronics Journal
+  role: Reviewer (2022)
+
+- title: Elsevier Materials Research Bulletin
+  role: Reviewer (2021)
+

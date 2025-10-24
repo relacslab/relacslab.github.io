@@ -13,7 +13,7 @@ show_sidebar: false
 <em> Assistant Professor </em> <br /> 
 **Affiliation:** Department of Electrical and Computer Engineering, Ajou University <br />
 **Email:** hyokeunlee[at]ajou.ac.kr <br />
-**Biography:** I was a postdoctoral researcher at North Carolina State University (NCSU) and mentored by Professor Amro Awad from February 2023 to January 2024. I worked as a Technical Research Personnel at Seoul National University (SNU) for military service from March 2020 to February 2023. I received my Ph.D. from SNU in August 2021, under the guidance of Professor Hyuk-Jae Lee, and I also received my B.S. degree from SNU in August 2016.
+**Biography:** Hyokeun Lee is an Assistant Professor in the Department of Electrical and Computer Engineering (ECE) at Ajou University, Suwon, South Korea. He was a postdoctoral researcher at North Carolina State University (2023-2024, mentor: Prof. Amro Awad) and the ISRC of Seoul National University (2021-2023). He earned the B.S. and Ph.D. degrees from the Department of ECE at Seoul National University, in 2016 and 2021, respectively. His current research interests include resource disaggregation, memory security, emerging memory technologies, and architecture simulation modeling. His research outcomes have been featured at various prestigious computer architecture conferences (e.g., MICRO, HPCA, PACT) and journals (e.g., IEEE TC, TVLSI, CAL).
 
 
 # Ph.D./M.S. Students
@@ -25,6 +25,7 @@ show_sidebar: false
 {% for sli in site.data.stulist_current %}
   [**{{ sli.name }}**]({{ sli.web }}), {{ sli.role }} <br />
   **Enrolled:** {{ sli.year }} <br />
+  **Topic:** {{ sli.topic }} <br />
   **Email:** {{ sli.email }} <br />
 {% endfor %}
 

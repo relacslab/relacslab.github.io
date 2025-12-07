@@ -5,14 +5,14 @@ show_sidebar: false
 ---
 
 # SCP<sup>2</sup>: Ways to Have a Nice Graduate Student Life
-- **Self-motivated**: Graduate student life has a very high degree of freedom, and you research for yourself, not advisor. Try to plan out several short-term milestones just like smashing down game quests. 
+- **Self-motivated**: You do research for yourself, not advisor or manager.
 - **Credible**: Credibility is the most basic virtue for having a wonderful relationship with your colleagues and advisors. 
-- **Patient**: Earning a degree is a marathon-like procedure. Hence, unless you are against the clock for the paper's deadline, at least, please take a day off per week to prevent yourself from burn-out. 
-- **Productive**: Please let your efforts bear fruit by publishing papers or patents after a project, as these will leave solid records on your CV. The third parties other than your colleagus almost always judge you based on official outputs.
+- **Patient**: Earning degrees is a marathon-like procedure. Please take a day off to prevent burn-out unless the deadline. 
+- **Productive**: Please let your efforts bear fruit by publishing papers or patents after a project.
 
 
 # How to Read Papers Properly?
-Creativity originates from repeated learning and imitation -- This is indeed true for any field. Historically, people have augmented various methods by learning from literatures. Since computer science has been quickly growing within decades, we cannot come up with novel ideas from the blank background. Thus, reading papers has to be one of your usual habits that should not be enforced by your advisors/managers, even if you are pursuing a career in the industry in the future. 
+Creativity originates from repeated learning and imitation---This is indeed true for any field. Historically, people have augmented various methods by learning from literatures. Since computer science has been quickly growing within decades, we cannot come up with novel ideas from the blank background. Thus, reading papers has to be one of your usual habits that should not be enforced by your advisors/managers, even if you are pursuing a career in the industry in the future. 
 
 Reading papers can be categorized into two ways: (1) PERUSE and (2) SKIM.
 *Skimming* is used for broad literature survey to find a topic, we quickly grasp the problems and high-level key idea from introduction and the front-end of methodology parts. 

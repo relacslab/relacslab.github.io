@@ -7,8 +7,8 @@ show_sidebar: false
 
 **RE**liable and **LA**rge-scale **C**omputer **S**ystem (RELACS, pronounced as "*relax*") research lab investigates reliability-related technologies while preserving high performance, ranging from error mitigation to security, in various large-scale computing systems. <br />
 
-<a href="https://github.com/relacslab">GitOrganization(Grads)</a> <br />
-<a href="https://github.com/relacslab-interns">GitOrganization(Interns)</a> <br />
+<a href="https://github.com/relacslab">Git Organization (groups)</a> <br />
+<a href="https://github.com/relacslab-undergrads">Git Organization (classes or interns)</a> <br />
 
 # News
 {% for article in site.data.news limit:3 %}

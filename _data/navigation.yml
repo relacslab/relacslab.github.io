@@ -1,16 +1,16 @@
 - name: Research
   link: /research/
 - name: Members
-  link: /members/
+  link: /professor/
   dropdown:
-    - name: members
+    - name: professor
+      link: /professor/
+    - name: team
       link: /members/
+    - name: join?
+      link: /join/
 - name: Publication
   link: /publication/
-- name: Service
-  link: /service/
-- name: Join?
-  link: /join/
 - name: Lecture
   link: /lecture/
 - name: Tips

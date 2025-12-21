@@ -14,6 +14,11 @@ show_sidebar: false
 **Email:** hyokeunlee[at]ajou.ac.kr <br />
 **Biography:** Hyokeun Lee is an Assistant Professor in the Department of Electrical and Computer Engineering (ECE) at Ajou University, Suwon, South Korea. He was a postdoctoral researcher at North Carolina State University (2023-2024, mentor: Prof. Amro Awad) and the ISRC of Seoul National University (2021-2023). He earned the B.S. and Ph.D. (advisor: Prof. Hyuk-Jae Lee) degrees from the Department of ECE at Seoul National University, in 2016 and 2021, respectively. His current research interests include resource disaggregation, memory security, emerging memory technologies, and architecture simulation modeling. His research outcomes have been featured at various prestigious computer architecture conferences (e.g., MICRO, HPCA, PACT) and journals (e.g., IEEE TC, TVLSI, CAL).
 
+# Dissertation
+Mitigating Disturbance Errors and Enhancing RMW Performance for PCM <br />
+Ph.D. Dissertation, Seoul National University, Aug. 2021 <br />
+Committee: Deog-Kyoon Jeong (Chair), Hyuk-Jae Lee (Advisor), Soojung Ryu, Jangwoo Kim, Jaewoong Sim
+
 # Services
 {% for servli in site.data.servlist_prof %}
   <b>{{ servli.title }}</b> <br /> 

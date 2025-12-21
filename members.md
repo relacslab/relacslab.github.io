@@ -1,5 +1,5 @@
 ---
-title: Group Members
+title: Members
 layout: page
 show_sidebar: false
 ---

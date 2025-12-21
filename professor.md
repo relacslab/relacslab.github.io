@@ -16,13 +16,13 @@ show_sidebar: false
 
 # Services
 {% for servli in site.data.servlist_prof %}
-  {{ **servli.title** }} <br /> 
-  - <em>{{ servli.role }}</em>
+  <b>{{ servli.title }}</b> <br /> 
+  <em>{{ servli.role }}</em>
 {% endfor %}
 
 # Talks
 {% for servli in site.data.servlist_talk %}
-  {{ servli.title }} <br />
+  <b>{{ servli.title }}</b> <br />
   <em>{{ servli.venue }}</em>, {{ servli.year }}
 {% endfor %}
 

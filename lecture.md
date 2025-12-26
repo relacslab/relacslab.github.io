@@ -4,6 +4,9 @@ layout: page
 show_sidebar: false
 ---
 
+# Spring 2026
+- <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-coa.pdf" target="_blank">Computer Architecture</a> (English)
+
 # Fall 2025
 - <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-aca.pdf" target="_blank">Advanced Computer Architecture</a> 
 - <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-coa.pdf" target="_blank">Computer Organization and Architecture</a> (English)

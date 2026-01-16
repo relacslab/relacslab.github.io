@@ -31,7 +31,7 @@ show_sidebar: false
 [S4] Minseok Seo, Seongho Jeong, Jungi Hyun, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*, ASPLOS 2027<br />
 [S3] Younghoon Ko, Hyemin Park, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*, ICS 2026<br />
 [S2] John McFarland, Hyokeun Lee, Aydin Aysu, Amro Awad, "Secure Integrity for Third-Party IOMMUs," IEEE Transactions on Computers<br />
-[S1] <u>Hyokeun Lee^</u>, Rahaf Abdullah^, Abbas Fairouz, Huiyang Zhou, Amro Awad, "An Efficient Unified Memory Security Model for CXL Memory-Expanded GPU Sytems," IEEE Transactions on Computers <br />
+[S1] <u>Hyokeun Lee^</u>, Rahaf Abdullah^, Abbas Fairouz, Huiyang Zhou, Amro Awad, "An Efficient Unified Memory Security Model for CXL Memory-Expanded GPU Sytems," IEEE Transactions on Dependable and Secure Computing <br />
 
 # Patents
 {% for publi in site.data.publist_patent %}

@@ -1,6 +1,6 @@
 ---
 title: RELACS
-subtitle: Reliable and Large-scale Computer System Research Lab
+subtitle: Department of EECS @ DGIST
 layout: page
 show_sidebar: false
 ---

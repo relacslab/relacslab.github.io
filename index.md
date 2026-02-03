@@ -1,5 +1,5 @@
 ---
-title: RELACS
+title: RELACS Research Lab
 subtitle: Department of EECS @ DGIST
 layout: page
 show_sidebar: false

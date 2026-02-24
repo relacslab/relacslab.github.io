@@ -6,6 +6,7 @@
   issue: ACM International Conference on Supercomputing (ICS)
   tlink: 
   year: July. 2026 
+  tier: "[Top-Tier]"
   highlight: 1
   
 - title: "A Cycle-Accurate Simulation Platform for NPU-DRAM Integrated Systems"

@@ -1,5 +1,5 @@
 ---
-title: Working on memory systems, particularly, ...
+title: Research Themes
 layout: page
 show_sidebar: false
 ---
@@ -22,4 +22,6 @@ Selected Recent Publications (NVM): [TC '20, '23], [ISPASS '22], [ISLPED '24]
 Accelerator disaggregation forms so-called accelerator-rich systems by aggregating the computation power of various acceleration functional units (AFUs). For example, modern SoCs have included more third-party intellectual properties (IPs) over the years. However, the introduction of third-party IPs conversely enlarges the security attack surface. Thus, we address security-related issues, such as MMU or memory, in the context of larger-scale SoCs (e.g., chiplet or accelerator-rich SoCs).
 
 Selected Recent Publications: [MICRO '23], [HPCA '24]
+
+<a href="https://github.com/relacslab/my_documents/blob/main/lab_poster.pdf">Glance with a poster</a> <br />
 

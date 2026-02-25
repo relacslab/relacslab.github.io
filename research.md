@@ -23,5 +23,6 @@ Accelerator disaggregation forms so-called accelerator-rich systems by aggregati
 
 Selected Recent Publications: [MICRO '23], [HPCA '24]
 
-<a href="https://github.com/relacslab/my_documents/blob/main/lab_poster.pdf">Glance with a poster</a> <br />
+<a href="https://github.com/relacslab/my_documents/blob/main/lab_poster.pdf">Glance at a poster</a> <br />
+
 

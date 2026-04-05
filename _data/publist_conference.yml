@@ -4,7 +4,8 @@
   description:
   authors: Younghoon Ko, Hyemin Park, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*
   issue: ACM International Conference on Supercomputing (ICS)
-  tlink: 
+  tlink: https://arxiv.org/abs/2603.26131
+  clink: https://github.com/relacslab/ibex-ics26
   year: July. 2026 
   tier: "[Top-Tier]"
   highlight: 1

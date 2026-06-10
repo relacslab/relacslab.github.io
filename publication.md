@@ -28,10 +28,11 @@ show_sidebar: false
 {% endfor %}
 
 # Submitted Papers 
+[S5] Yoohak Lee, Jangseon Park, Tianqi Zhang, <u>Hyokeun Lee</u>\*, Tajana Rosing\*, ICCD 2026<br />
 [S4] Seonmu Oh, <u>Hyokeun Lee</u>\*, Hoonsung Chwa\*, MICRO 2026<br />
-[S3] Minseok Seo, Seongho Jeong, Jungi Hyun, Hyuk-Jae Lee, Gwangsun Kim, <u>Hyokeun Lee</u>\*, ASPLOS 2027<br />
+[S3] Minseok Seo, Seongho Jeong, Jungi Hyun, Hyuk-Jae Lee, Gwangsun Kim, <u>Hyokeun Lee</u>\*, ATC 2026<br />
 [S2] John McFarland, <u>Hyokeun Lee</u>, Aydin Aysu, Amro Awad, "Secure Integrity for Third-Party IOMMUs," IEEE Transactions on Computers<br />
-[S1] <u>Hyokeun Lee^</u>, Rahaf Abdullah^, Abbas Fairouz, Huiyang Zhou, Amro Awad, "An Efficient Unified Memory Security Model for CXL Memory-Expanded GPU Sytems," IEEE Transactions on Dependable and Secure Computing <br />
+[S1] <u>Hyokeun Lee^</u>, Rahaf Abdullah^, Abbas Fairouz, Huiyang Zhou, Amro Awad, "An Efficient Unified Memory Security Model for CXL Memory-Expanded GPU Systems," IEEE Transactions on Dependable and Secure Computing <br />
 
 # Patents
 {% for publi in site.data.publist_patent %}

@@ -1,3 +1,14 @@
+- title: "SITI-Wrap: Secure Integrity for Third-Party IOMMUs"
+  label: "[J10]"
+  image:
+  description:
+  authors: John McFarland, <u>Hyokeun Lee</u>, Aydin Aysu, Amro Awad
+  issue: IEEE Transactions on Computers
+  year: July. 2026
+  tier: "[SCIE]"
+  tlink: 
+  highlight: 1
+
 - title: "OASIS: Outlier-Aware KV Cache Clustering for Scaling LLM Inference in CXL Memory Systems"
   label: "[J9]"
   image:

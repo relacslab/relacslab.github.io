@@ -6,7 +6,7 @@
   issue: IEEE Transactions on Computers
   year: July. 2026
   tier: "[SCIE]"
-  tlink: 
+  tlink: https://ieeexplore.ieee.org/document/11599474
   highlight: 1
 
 - title: "OASIS: Outlier-Aware KV Cache Clustering for Scaling LLM Inference in CXL Memory Systems"

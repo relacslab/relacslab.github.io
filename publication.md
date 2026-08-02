@@ -28,8 +28,9 @@ show_sidebar: false
 {% endfor %}
 
 # Submitted Papers 
-[S4] Yoohak Lee, Jangseon Park, Tianqi Zhang, <u>Hyokeun Lee</u>\*, Tajana Rosing\*, ICCD 2026<br />
-[S3] Seonmu Oh, <u>Hyokeun Lee</u>\*, Hoonsung Chwa\*, MICRO 2026<br />
+[S5] Jeongmin Hong, Sung Wook Kang, Junyong Ko, Okkyun Woo, Gwanghong Park, Jisung Park, Youngjin Kwon, <u>Hyokeun Lee</u>, Gwangsun Kim, HPCA 2027<br />
+[S4] Seonmu Oh, <u>Hyokeun Lee</u>\*, Hoonsung Chwa\*, HPCA 2027<br />
+[S3] Yoohak Lee, Jangseon Park, Tianqi Zhang, <u>Hyokeun Lee</u>\*, Tajana Rosing\*, ICCD 2026<br />
 [S2] Minseok Seo, Seongho Jeong, Jungi Hyun, Hyuk-Jae Lee, Gwangsun Kim, <u>Hyokeun Lee</u>\*, ATC 2026<br />
 [S1] <u>Hyokeun Lee^</u>, Rahaf Abdullah^, Abbas Fairouz, Huiyang Zhou, Amro Awad, "An Efficient Unified Memory Security Model for CXL Memory-Expanded GPU Systems," IEEE Transactions on Dependable and Secure Computing <br />
 

@@ -3,6 +3,8 @@ title: Taught lectures
 layout: page
 show_sidebar: false
 ---
+# Fall 2026
+- <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-aca.pdf" target="_blank">Advanced Computer Architecture</a> (English)
 
 # Spring 2026
 - <a href="https://github.com/relacslab/my_documents/blob/main/syllabus-ca.pdf" target="_blank">Computer Architecture</a> (English)

@@ -1,3 +1,9 @@
+- name: Seonmu Oh
+  role: Ph.D. student
+  topic: Security-aware memory managements
+  email: smoh[at]dgist.ac.kr
+  year: Sep. 2026
+  
 - name: JinRyeol Baek
   role: Integrated M.S.-Ph.D. student
   topic: Secure chiplet designs
@@ -10,3 +16,8 @@
   email: dongseop.kim[at]dgist.ac.kr
   year: Feb. 2026
 
+- name: Taek Jun Oh
+  role: M.S. student (plan to transfer as an integrated course)
+  topic: Searching for new topics (potentially confidential computing)
+  email: xxx[at]dgist.ac.kr
+  year: Sep. 2026

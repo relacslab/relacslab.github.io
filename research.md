@@ -38,7 +38,7 @@ Selected Recent Publications: [MICRO '23], [HPCA '24], [TC '26]
 ### Research Collaborators and Supporters
 <div class="columns">
 <div class="column is-6">
-{% include image-modal.html ratio="is-16by9" link="/img/collab.jpg" alt="Example image" %}
+{% include image-modal.html ratio="auto" link="/img/collab.jpg" alt="Example image" %}
 </div>
 </div>
 

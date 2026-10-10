@@ -12,10 +12,10 @@ Modern computer applications (e.g., LLM or in-memory database) demand larger mem
 
 ## Memory Disaggregation
 <div class="columns">
-<div class="column is-3">
+<div class="column is-5">
 {% include image-modal.html ratio="is-16by9" link="https://via.placeholder.com/400x225" alt="Example image" large_link="https://via.placeholder.com/1200x675" %}
 </div>
-<div class="column is-9">
+<div class="column is-7">
 Memory disaggregation is a scalable main memory expansion solution that modularly aggregates several memory devices in a separate node at the system level. Also, it can be achieved by leveraging I/O interconnects in addition to traditional DIMM interfaces at the node level. However, such a large-scale memory system is usually shared by a large number of processing units, thereby potentially incurring security, reliability, and resource efficiency issues. Thus, we develop scalable disaggregated memory architectures through advanced (1) protocols that support hardware-based cache coherence (e.g., CXL), (2) features (e.g., security, compression), and (3) memory technologies (e.g., NVM). 
 
 Selected Recent Publications: [HPCA '24], [PACT '23], [CAL '25], [ICS '26]

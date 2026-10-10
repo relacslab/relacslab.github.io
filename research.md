@@ -10,7 +10,7 @@ show_sidebar: false
 Modern computer applications, like LLM, demand larger memory resources but also highly integrated functionalities. Accordingly, <em>resource disaggregation</em> is key to achieving high performance and high scalability in future large-scale computing systems---it aggregates resources, such as memory or accelerators, into modular subsystems just like Lego blocks. Recently, these technologies have been actively applied to various levels of computing systems, ranging from data centers (e.g., disaggregated memory) to SoCs (e.g., chiplet). My research aims at fundamental issues in these large-scale computing systems to achieve low power and high reliability while ensuring high performance and scalability. To be more specific, my research can be further divided into the following **two paths**:
 
 
-## Memory Disaggregation
+### Memory Disaggregation
 <div class="columns">
 <div class="column is-4">
 {% include image-modal.html ratio="is-16by9" link="/img/mem-disag.jpg" alt="Example image" %}
@@ -23,7 +23,7 @@ Memory disaggregation is a scalable main memory expansion solution that modularl
 Selected Recent Publications: [HPCA '24], [PACT '23], [CAL '25], [ICS '26], [TC '20, '23], [ISPASS '22], [ISLPED '24]
 
 
-## Accelerator Disaggregation
+### Accelerator Disaggregation
 <div class="columns">
 <div class="column is-4">
 {% include image-modal.html ratio="is-16by9" link="/img/accel-disag.jpg" alt="Example image" %}
@@ -35,10 +35,10 @@ Accelerator disaggregation forms so-called accelerator-rich systems by aggregati
 
 Selected Recent Publications: [MICRO '23], [HPCA '24], [TC '26]
 
-## Research collaborators
+### Research Collaborators and Supporters
 <div class="columns">
-<div class="column is-12">
-{% include image-modal.html ratio="is-16by9" link="https://via.placeholder.com/400x225" alt="Example image" large_link="https://via.placeholder.com/1200x675" %}
+<div class="column is-6">
+{% include image-modal.html ratio="is-16by9" link="/img/collab.jpg" alt="Example image" %}
 </div>
 </div>
 

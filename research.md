@@ -48,6 +48,6 @@ Selected Recent Publications: [MICRO '23], [HPCA '24], [TC '26]
 </div>
 </div>
 
-<a href="https://github.com/relacslab/my_documents/blob/main/lab_poster.pdf">Glance at a poster</a> <br />
+<a href="https://github.com/relacslab/my_documents/blob/main/lab_poster.pdf">Glance at lab poster</a> <br />
 
 

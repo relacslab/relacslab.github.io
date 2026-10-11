@@ -26,7 +26,9 @@ Selected Recent Publications: [HPCA '24], [PACT '23], [CAL '25], [ICS '26], [TC 
 ### Accelerator Disaggregation
 <div class="columns">
 <div class="column is-4">
-{% include image-modal.html ratio="is-16by9" link="/img/accel-disag.jpg" alt="Example image" %}
+<figure class="image">
+  <img src="/img/accel-disag.jpg" alt="accelerator dissaggregation">
+</figure>
 </div>
 <div class="column is-8">
 Accelerator disaggregation forms so-called accelerator-rich systems by aggregating the computation power of various acceleration functional units (AFUs). For example, modern SoCs have included more third-party intellectual properties (IPs) over the years. However, the introduction of third-party IPs conversely enlarges the security attack surface. In this research, we address security issues stemming from memory management units (MMUs) and memory in the context of larger-scale SoCs or disaggregated data center models.

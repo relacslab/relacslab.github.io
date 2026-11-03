@@ -1,3 +1,23 @@
+- title: "Bifrost: Improving Translation Reach across Cache Hierarchy with In-Place Table Entry Coalescing"
+  label: "[C14]" 
+  image: 
+  description:
+  authors: Seonmu Oh, Hoon Sung Chwa\*, <u>Hyokeun Lee</u>\*
+  issue: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  year: March. 2027 
+  tier: "[Top-Tier]"
+  highlight: 1
+
+- title: "Accelerating End-Host Networking for CXL-NICs"
+  label: "[C13]" 
+  image: 
+  description:
+  authors: Jeongmin Hong, Sung Wook Kang, Junyong Koh, Okkyun Woo, Gwanhong Park, Jisung Park, Youngjin Kwon, <u>Hyokeun Lee</u>, Gwangsun Kim
+  issue: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  year: March. 2027 
+  tier: "[Top-Tier]"
+  highlight: 1
+
 - title: "IBEX: Internal Bandwidth‑Efficient Compression Architecture for Scalable CXL Memory Expansion"
   label: "[C12]" 
   image: 

@@ -28,10 +28,9 @@ show_sidebar: false
 {% endfor %}
 
 # Submitted Papers 
-[S4] Younghoon Ko, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*, IPDPS 2027<br />
-[S3] Minseok Seo, Seongho Jeong, Jungi Hyun, Hyuk-Jae Lee, Gwangsun Kim, <u>Hyokeun Lee</u>\*, IPDPS 2027<br />
-[S2] Yoohak Lee, Jangseon Park, Tianqi Zhang, <u>Hyokeun Lee</u>\*, Tajana Rosing\*, ICCD 2026<br />
-[S1] <u>Hyokeun Lee^</u>, Rahaf Abdullah^, Abbas Fairouz, Huiyang Zhou, Amro Awad, "An Efficient Unified Memory Security Model for CXL Memory-Expanded GPU Systems," IEEE Transactions on Dependable and Secure Computing <br />
+[S] Younghoon Ko, Hyuk-Jae Lee, <u>Hyokeun Lee</u>\*, IPDPS 2027<br />
+[S] Minseok Seo, Seongho Jeong, Jungi Hyun, Hyuk-Jae Lee, Gwangsun Kim, <u>Hyokeun Lee</u>\*, IPDPS 2027<br />
+[S] Yoohak Lee, Jangseon Park, Tianqi Zhang, <u>Hyokeun Lee</u>\*, Tajana Rosing\*, IEEE ACCESS<br />
 
 # Patents
 {% for publi in site.data.publist_patent %}

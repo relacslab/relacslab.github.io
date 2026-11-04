@@ -1,3 +1,15 @@
+
+ - title: "An Efficient Unified Memory Security Model for CXL Memory-Expanded GPU Systems"
+  label: "[J11]"
+  image:
+  description:
+  authors: <u>Hyokeun Lee^</u>, Rahaf Abdullah^, Abbas Fairouz, Huiyang Zhou, Amro Awad
+  issue: IEEE Transactions on Dependable and Secure Computing
+  year: 2027
+  tier: "[SCIE]"
+  tlink: 
+  highlight: 1
+  
 - title: "SITI-Wrap: Secure Integrity for Third-Party IOMMUs"
   label: "[J10]"
   image:

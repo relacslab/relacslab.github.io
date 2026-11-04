@@ -8,7 +8,7 @@
   year: 2027
   tier: "[SCIE]"
   tlink: 
-  highlight: 1
+  highlight: 1 
   
 - title: "SITI-Wrap: Secure Integrity for Third-Party IOMMUs"
   label: "[J10]"
